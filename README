@@ -1,3 +1,5 @@
-Original file (MARINE_VHF_UHF_INTERNATIONAL_2016B.csv) from https://radiofreeq.wordpress.com/2016/02/20/marine-channel-frequencies-vhf-uhf-radio-programming/
+Chirp (http://chirp.danplanet.com/projects/chirp/wiki/Home) file for Norwegian VHF marine channels.
 
-New data (Kanalbruk.htm) from http://trudelutt.com/linker/vhf_kanaler_nor.htm
+Original file (MARINE_VHF_UHF_INTERNATIONAL_2016B.csv) from https://radiofreeq.wordpress.com/2016/02/20/marine-channel-frequencies-vhf-uhf-radio-programming/ didn't seem to match Norwegian channels.
+
+New data (Kanalbruk.htm) from http://trudelutt.com/linker/vhf_kanaler_nor.htm will be used to modify original file.
