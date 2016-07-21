@@ -1,5 +1,11 @@
-Chirp (http://chirp.danplanet.com/projects/chirp/wiki/Home) file for Norwegian VHF marine channels.
+Improved Chirp (http://chirp.danplanet.com/projects/chirp/wiki/Home) file for VHF marine channels.
 
-Original file (MARINE_VHF_UHF_INTERNATIONAL_2016B.csv) from https://radiofreeq.wordpress.com/2016/02/20/marine-channel-frequencies-vhf-uhf-radio-programming/ didn't seem to match Norwegian channels.
+Original file (MARINE_VHF_UHF_INTERNATIONAL_2016B.csv) from https://radiofreeq.wordpress.com/2016/02/20/marine-channel-frequencies-vhf-uhf-radio-programming/ and the stock "Marine VHF channels" was slightly wrong.
 
-New data (Kanalbruk.htm) from http://trudelutt.com/linker/vhf_kanaler_nor.htm will be used to modify original file.
+Fixing with Kanalbruk.htm from http://trudelutt.com/linker/vhf_kanaler_nor.htm as source.
+
+I'm not sure where L and F channels are usually places, to I put them at 10x and 11x. Let me know if there's a standard numeric location for them.
+
+TODO:
+* Test out channels vs. frequencies.
+* Check if Chirp wants to use this as new generic maritime config.
