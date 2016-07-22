@@ -1,5 +1,5 @@
 Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL
-1,BUSS,151.775000,,0.000000,,88.5,88.5,023,NN,FM,5.00,,Test,,,,
+1,BUSS,151.775000,,0.000000,,88.5,88.5,023,NN,FM,5.00,,,,,,
 2,TLS,151.800000,,0.000000,,88.5,88.5,023,NN,FM,5.00,,,,,,
 3,TRIKK-S,151.925000,,0.000000,,88.5,88.5,023,NN,FM,5.00,,,,,,
 4,TRIKK-B,151.875000,,0.000000,,88.5,88.5,023,NN,FM,5.00,,,,,,
@@ -7,3 +7,4 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 6,TBANEA,151.950000,,0.000000,,88.5,88.5,023,NN,FM,5.00,,,,,,
 7,BILLETT,151.625000,,0.000000,,88.5,88.5,023,NN,FM,5.00,,,,,,
 8,TBANE,151.550000,,0.000000,,88.5,88.5,023,NN,FM,5.00,,,,,,
+9,BUSS?,154.300000,,0.000000,,88.5,88.5,023,NN,FM,5.00,,,,,,

@@ -1,4 +1,6 @@
-Improved Chirp (http://chirp.danplanet.com/projects/chirp/wiki/Home) file for VHF marine channels.
+marine_vhf_no
+
+marine_vhf_no.csv is an improved Chirp (http://chirp.danplanet.com/projects/chirp/wiki/Home) file for VHF marine channels.
 
 Original file (MARINE_VHF_UHF_INTERNATIONAL_2016B.csv) from https://radiofreeq.wordpress.com/2016/02/20/marine-channel-frequencies-vhf-uhf-radio-programming/ and the stock "Marine VHF channels" did not match marine channel numbers with baofeng channel numbers.
 
@@ -10,3 +12,10 @@ Also removed all Skip flags, as I'd like all channels to be scanned.
 
 TODO:
 * Check if Chirp wants to use this as new generic maritime config.
+
+
+
+norway_ruter
+
+norway_ruter.csv is the internal comms for Oslo, Norway bus, tram and metro. Some channels have been migrated to TETRA (encrypted), but others remain active.
+
