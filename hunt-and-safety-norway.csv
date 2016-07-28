@@ -1,7 +1,0 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL
-1,Hunt01,143.875000,,0.000000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-2,Hunt02,139.400000,,0.000000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-3,Hunt03,143.350000,,0.000000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-4,Hunt04,138.850000,,0.000000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-5,Hunt05,143.250000,,0.000000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-6,Hunt06,138.750000,,0.000000,,88.5,88.5,023,NN,FM,25.00,,,,,,
