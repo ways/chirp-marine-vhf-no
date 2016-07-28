@@ -19,3 +19,7 @@ norway_ruter
 
 norway_ruter.csv is the internal comms for Oslo, Norway bus, tram and metro. Some channels have been migrated to TETRA (encrypted), but others remain active.
 
+
+hunt-and-safety-norway.csv
+
+Hunting radio (jaktradio) and safety (sikkringsradio). Source: http://frekvenser.no/Jaktradio.html#vis_frekvenser
