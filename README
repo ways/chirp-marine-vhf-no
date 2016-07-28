@@ -1,31 +1,31 @@
-marine_vhf_no
+# CSV files for CHIRP
 
-marine_vhf_no.csv is an improved Chirp (http://chirp.danplanet.com/projects/chirp/wiki/Home) file for VHF marine channels.
+Tested with Baofeng.
 
-Original file (MARINE_VHF_UHF_INTERNATIONAL_2016B.csv) from https://radiofreeq.wordpress.com/2016/02/20/marine-channel-frequencies-vhf-uhf-radio-programming/ and the stock "Marine VHF channels" did not match marine channel numbers with baofeng channel numbers.
 
-Fixing with Kanalbruk.htm from http://trudelutt.com/linker/vhf_kanaler_nor.htm as source.
+## marine_vhf.csv
 
-I'm not sure where L and F channels are usually placed, or which countries use them, so I put them at 30-35. Let me know if there's a standard numeric location for them.
+marine_vhf.csv is an improved Chirp (http://chirp.danplanet.com/projects/chirp/wiki/Home) file for VHF marine channels. Stock "Marine VHF channels" did not match marine channel numbers with baofeng channel numbers. Fixing with Kanalbruk.htm from http://trudelutt.com/linker/vhf_kanaler_nor.htm as source.
 
-Also removed all Skip flags, as I'd like all channels to be scanned.
+I'm not sure where L and F channels are usually placed, or which countries use them, so I put them at 30-35 to "save" memory slots. Let me know if there's a standard numeric location for them.
+
+Also removed all Skip flags, as I'd like all channels to be scanned. Open for input on which are pointless to scan (like AIS?).
 
 TODO:
-* Check if Chirp wants to use this as new generic maritime config.
+* Check if Chirp wants to use this as new generic maritime config: http://chirp.danplanet.com/issues/3853
 
 
+## norway_ruter.csv
 
-norway_ruter
-
-norway_ruter.csv is the internal comms for Oslo, Norway bus, tram and metro. Some channels have been migrated to TETRA (encrypted), but others remain active.
+http://ruter.no. norway_ruter.csv is the internal comms for Oslo, Norway bus, tram and metro. Some channels have been migrated to TETRA (encrypted), but others remain active.
 
 
-hunt-norway.csv
+## hunt-norway.csv
 
 Hunting radio (jaktradio). Source: http://frekvenser.no/Jaktradio.html#vis_frekvenser
 
 
-hunt-sweden.csv
+## hunt-sweden.csv
 
-Hunting radio (jaktradio). Not those on 3x MHz, as I don't have a radio to test them. Source: http://frekvenser.no/Jaktradio.html#vis_frekvenser
+Hunting radio (jaktradio). Only 15x MHz band, not 3x MHz as I don't have a radio to test them. Source: http://frekvenser.no/Jaktradio.html#vis_frekvenser
 
