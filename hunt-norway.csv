@@ -1,5 +1,5 @@
 Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL
-1,Jakt01,143.875000,,0.000000,,88.5,88.5,023,NN,FM,25.00,,,,,,
+1,Jakt01,143.900000,,0.000000,,88.5,88.5,023,NN,FM,25.00,,,,,,
 2,Jakt02,139.400000,,0.000000,,88.5,88.5,023,NN,FM,25.00,,,,,,
 3,Jakt03,143.350000,,0.000000,,88.5,88.5,023,NN,FM,25.00,,,,,,
 4,Jakt04,138.850000,,0.000000,,88.5,88.5,023,NN,FM,25.00,,,,,,

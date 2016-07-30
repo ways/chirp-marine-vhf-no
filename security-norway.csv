@@ -1,0 +1,5 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL
+1,Sikr01,143.875000,,0.000000,,88.5,88.5,023,NN,FM,25.00,,,,,,
+2,Sikr02,139.300000,split,143.800000,,88.5,88.5,023,NN,FM,25.00,,,,,,
+3,Sikr03,139.225000,,0.000000,,88.5,88.5,023,NN,FM,25.00,,,,,,
+4,Sikr04,143.725000,,0.000000,,88.5,88.5,023,NN,FM,25.00,,,,,,

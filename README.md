@@ -29,3 +29,7 @@ Hunting radio (jaktradio). Source: http://frekvenser.no/Jaktradio.html#vis_frekv
 
 Hunting radio (jaktradio). Only 15x MHz band, not 3x MHz as I don't have a radio to test them. Source: http://frekvenser.no/Jaktradio.html#vis_frekvenser
 
+## security-norway.csv
+
+Sikringsradio for Norway. Not done. Source: http://frekvenser.no/Jaktradio.html#vis_frekvenser
+
