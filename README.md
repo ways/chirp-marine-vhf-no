@@ -33,3 +33,7 @@ Hunting radio (jaktradio). Only 15x MHz band, not 3x MHz as I don't have a radio
 
 Sikringsradio for Norway. Not done. Source: http://frekvenser.no/Jaktradio.html#vis_frekvenser
 
+## kdr-444.cvs
+
+https://en.wikipedia.org/wiki/KDR_444
+
