@@ -31,11 +31,15 @@ Hunting radio (jaktradio). Only 15x MHz band, not 3x MHz as I don't have a radio
 
 ## security-norway.csv
 
-Sikringsradio for Norway. Not done. Source: http://frekvenser.no/Jaktradio.html#vis_frekvenser
+Sikringsradio for Norway. Source: http://www.jegerservice.com/filer/pdf/frekvenser_jakt_sanke_sikringsradio.pdf
 
 ## kdr-444.csv
 
 https://en.wikipedia.org/wiki/KDR_444
+
+## pmr-446.csv
+
+Analog channels only: https://no.wikipedia.org/wiki/PMR446
 
 ## repeaters-norway-*.csv
 
