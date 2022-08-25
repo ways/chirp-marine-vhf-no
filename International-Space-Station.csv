@@ -1,0 +1,3 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+1,ISS R1,145.800000,-,0.600000,,88.5,88.5,023,NN,FM,5.00,,,,,,
+2,ISS R2,145.800000,-,1.310000,,88.5,88.5,023,NN,FM,5.00,,,,,,

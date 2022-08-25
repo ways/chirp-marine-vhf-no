@@ -44,3 +44,8 @@ Analog channels only: https://no.wikipedia.org/wiki/PMR446
 ## repeaters-norway-*.csv
 
 Repeaters from https://www.nrrl.no/repeaterkart
+
+## International-Space-Station.csv
+
+FM Voice channels for ITU Region 1 (Europe-Middle East-Africa-North Asia) and ITU Region 2 and 3 (North and South America-Caribbean-Greenland-Australia-South Asia)
+Source: https://issfanclub.eu/iss-frequencies/
